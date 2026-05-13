@@ -1,2 +1,1 @@
-# Main-SpencerMarcu
-Master:SpencerMarcu
+# Master:SpencerMarcu
