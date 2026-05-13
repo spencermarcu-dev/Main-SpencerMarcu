@@ -1,0 +1,9 @@
+title: Spencer Marcu
+description: Personal portfolio and blog of Spencer Marcu
+baseurl: ""
+url: "https://spencermarcu-dev.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
