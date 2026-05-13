@@ -1,6 +1,6 @@
-# Main-SpencerMarcu
+# SpencerMarcu
 
-Personal portfolio website for Spencer Marcu, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+Personal portfolio website for Spencer Marcu, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/spencermarcu).
 
 ## Overview
 
